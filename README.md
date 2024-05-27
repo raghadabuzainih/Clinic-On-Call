@@ -146,3 +146,33 @@ header a:hover{
 strong{
     text-align: end;
 }
+.teams{
+    display: grid;
+    gap: 2rem;
+    padding: 5rem;
+}
+
+
+.card{
+    display: flex;
+    gap: 2rem;
+}
+
+.card div{
+    margin-top: -1rem;
+}
+
+.card img{
+    border-radius: 1rem;
+    width: 8rem;
+    height: 8rem;
+}
+
+.card h3{
+    color: green;
+}
+
+.title-team{
+    text-align: center;
+}
+
