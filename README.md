@@ -111,3 +111,38 @@ header a:hover{
     align-items: center;
     width: 27rem;
 }
+
+.clinics{
+    display: grid;
+    gap: 2rem;
+    background-color: antiquewhite;
+    padding-bottom: 3rem;
+}
+
+#heading-clinic{
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.clinic{
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+    background-color: white;
+    margin: 2rem;
+    border-radius: 1rem;
+}
+
+.clinic h1{
+    color: brown;
+}
+
+.clinic img{
+    border-radius: 5px;
+    width: 20rem;
+    height: 10rem;
+}
+
+strong{
+    text-align: end;
+}
