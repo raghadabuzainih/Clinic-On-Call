@@ -262,3 +262,6 @@
             </div>
         </div>
     </section>
+<footer>
+        Copyright ©️ 2024 All rights reserved - Clinic On Call        
+    </footer>
