@@ -53,3 +53,33 @@ header a:hover{
     width: 286px;
     background-color: white;
 }
+;THIS PART CREAT BY MALAK
+#about{
+    background-color: antiquewhite;
+    display: flex;
+    gap: 3rem;
+    padding: 5rem;
+}
+
+#about h1{
+    font-size: 3rem;
+}
+
+
+.line{
+    position: relative;
+    top: -28px;
+    width: 10.5rem;
+    height: 1rem;
+    background-color: rgb(87, 54, 54);
+}
+
+#about img{
+    width: 45rem;
+    height: 30rem;
+}
+
+#about p{
+    line-height: 1.9rem;
+    font-size: 1.4rem;
+}
