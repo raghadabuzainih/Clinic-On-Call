@@ -176,3 +176,46 @@ strong{
     text-align: center;
 }
 
+.contact{
+    background-color: antiquewhite;
+    padding: 4rem;
+}
+
+.contact h1{
+    text-align: center;
+}
+
+.two-sections{
+    display: flex;
+    gap: 15rem;
+}
+
+.info{
+    text-align: center;
+    margin-left: 15rem;
+    margin-top: 5rem;
+}
+
+.form{
+    display: grid;
+    gap: 1rem;
+    width: 30rem;
+}
+
+.first-inputs{
+    display: flex;
+    gap: 1rem;
+}
+
+.form input, .form button{
+    padding: 0 .5rem;
+    height: 3rem;
+    font-size: 17px;
+}
+
+.form textarea{
+    height: 7rem;
+    resize: none;
+    font-size: 17px;
+    padding: .7rem .5rem;
+}
