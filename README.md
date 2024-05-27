@@ -65,6 +65,44 @@
         </div>
     </section>
 
+    <section class="clinics" id="clinicsAndScheduleBooking">
+        <h1 id="heading-clinic">-CLINICS & SCHEDULE BOOKING-</h1>
+
+        <div class="three-clinics">
+            <div class="clinic">
+                <img src="clinics/betterLifeClinic.PNG" alt="">
+                <div class="about-clinic">
+                    <h1>BETTER LIFE CLINIC</h1>
+                    <p>To make life better, we have provided the service of communicating with our clinic electronically to save time and effort and make it easier to reach us and learn about our services without having to come to the clinic. Here we have a specialized
+                         doctors in Neurosurgery, Pediatrics, Emergency Medicine and Oncology.</p>
+                    <strong>₪120</strong>
+                </div>
+            </div>
+
+            <div class="clinic">
+                <img src="clinics/hopeClinic.PNG" alt="">
+                <div class="about-clinic">
+                    <h1>HOPE CLINIC</h1>
+                    <p>To spread hope and revive it in souls, there is great support for patients psychologically and advice to overcome the psychological state due to illness, which includes interaction between the patient and the doctor. Hoping to make life easier and better. Here we have a specialized
+                        doctors in Cardiovascular Medicine, Obstetrics and Gynecology, Ophthalmology and Psychiatry.</p>
+                    <strong>₪110</strong>
+                </div>
+            </div>
+
+
+            <div class="clinic">
+                <img src="clinics/peaceClinic.PNG" alt="">
+                <div class="about-clinic">
+                    <h1>PEACE CLINIC</h1>
+                    <p>We are here to provide health care and welcome everyone, regardless of where they are.
+                        We will help you overcome your diseases and health problems.
+                        Do not hesitate to contact us and get the appropriate treatment. Making effort as possible. Here we have a specialized doctors in Ophthalmology, Oncology, Pediatrics and Orthopedics..</p>
+                        <strong>₪100</strong>
+                </div>
+            </div>
+        </div>
+    </section>
+
 </body>
 <script src="clinic.on.call.js"></script>
 </html>
