@@ -195,10 +195,6 @@
         </div>
 
     </section>
-
-</body>
-<script src="clinic.on.call.js"></script>
-</html>
 <section class="teams" id="tm.3">
         <h1 class="title-team">-PEACE CLINIC TEAM-</h1>
 
@@ -265,3 +261,6 @@
 <footer>
         Copyright ©️ 2024 All rights reserved - Clinic On Call        
     </footer>
+    </body>
+<script src="clinic.on.call.js"></script>
+</html>
