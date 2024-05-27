@@ -239,4 +239,26 @@
             </div>
         </div>
 
+    </section><section class="contact" id="contact-form">
+        <h1>-CONTACT-</h1>
+
+        <div class="two-sections">
+            <div class="info">
+                Palestine <br><br>
+                <span><i class="fas fa-phone-alt"></i> +970-59-212-001</span>
+                <p>If you have any questions don't hesitate to contact us!            </p>
+            </div>
+
+
+            <div class="form">
+                <div class="first-inputs">
+                    <input type="text" name="" id="name-input" placeholder="Name" required>
+                    <input type="number" name="" id="phone-input" placeholder="Phone" required>
+                </div>
+               
+                <input type="email" name="" id="email-input" placeholder="Email address" required>
+                <textarea name="" id="message-input" placeholder="Message"></textarea>
+                <button id="contactButt">CONTACT US</button>
+            </div>
+        </div>
     </section>
