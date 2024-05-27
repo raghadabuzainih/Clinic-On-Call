@@ -39,6 +39,32 @@
         </div>
         <img src="about.PNG" alt="">
     </section>
+    <section id="services">
+        <h1>-SERVICES-</h1>
+        <div class="three-serv">
+            <div class="same">
+                <img src="services/call.PNG" alt="">
+                <h2>Contact with doctors</h2>
+                <p>You can tell everything about your health condition to the doctor and he will diagnose your condition,
+                     and you can ask him anything you want.</p>
+            </div>
+
+            <div class="same">
+                <img src="services/book.PNG" alt="">
+                <h2>Booking appointment</h2>
+                <p>You can book an appointment according to what suits you and with any clinic and any doctor you want, and you will also be
+                     given a notification to remind you of the appointment time.</p>
+            </div>
+
+            <div class="same">
+                <img src="services/medicine.PNG" alt="">
+                <h2>Description of medications</h2>
+                <p>Prescribing appropriate medications for the patient according to his health condition
+                     and helping him know where these medications are available</p>
+            </div>
+        </div>
+    </section>
+
 </body>
 <script src="clinic.on.call.js"></script>
 </html>
