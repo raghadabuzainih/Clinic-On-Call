@@ -30,4 +30,13 @@
     </section>
 </body>
 <script src="clinic.on.call.js"></script>
-</html>
+</html><section id="about">
+        <div>
+            <h1>ABOUT</h1>
+            <div class="line"></div>
+            <p>Here we are doctors and patients contact with each other electronic, there are some features here like booking appointment at the clinic or remove it, know every clinics with their doctors,  services and location.</p>
+            <p>You can check all our clinics below.</p>
+            <p>We hope to make life as easier as we can.</p>
+        </div>
+        <img src="about.PNG" alt="">
+    </section>
