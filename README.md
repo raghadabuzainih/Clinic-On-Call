@@ -102,7 +102,51 @@
             </div>
         </div>
     </section>
+<section class="teams" id="tm.1">
+        <h1 class="title-team">-BETTER LIFE CLINIC TEAM-</h1>
 
+        <div class="card">
+            <img src="doctors/1.png" alt="">
+            <div>
+                <h1>Ahmed Al Nasser</h1>
+                <h3>Neurosurgery</h3>
+                <p>Dr. Ahmed Al-Nasser is a neurosurgeon, born in Gaza in 1987. He received his medical degree from Al-Azhar
+                     University, and completed his training in neurosurgery at Stanford University.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="doctors/2.png" alt="">
+            <div>
+                <h1>Sarah Mansour</h1>
+                <h3>Pediatrics</h3>
+                <p>Dr. Sarah Mansour is a doctor specializing in pediatrics, born in Jerusalem in 1960. She obtained a bachelor's degree in medicine and surgery from An-Najah National University,
+                     and completed her residency in pediatrics at Cairo University. She focuses on caring for sick infants and children and providing vaccinations.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="doctors/3.png" alt="">
+            <div>
+                <h1>Sami Al-Jabali</h1>
+                <h3>Emergency Medicine</h3>
+                <p>Dr. Sami Al-Jabali is a doctor specializing in emergency medicine. He was born in Ramallah in 1981. He received his
+                     medical degree from An-Najah National University, and specialized in emergency medicine at Columbia University.</p>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <img src="doctors/4.png" alt="">
+            <div>
+                <h1>Maryam Al-Husseini</h1>
+                <h3>Oncology</h3>
+                <p>Dr. Maryam Al-Husseini is a medical oncologist, born in Gaza in 1980. She received her medical degree from Al-Azhar University
+                     and completed her training in medical oncology at Harvard University. She treats cancer and provides palliative care to patients.</p>
+            </div>
+        </div>
+
+    </section>
 </body>
 <script src="clinic.on.call.js"></script>
 </html>
