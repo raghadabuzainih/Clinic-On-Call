@@ -53,7 +53,7 @@ header a:hover{
     width: 286px;
     background-color: white;
 }
-;THIS PART CREAT BY MALAK
+
 #about{
     background-color: antiquewhite;
     display: flex;
