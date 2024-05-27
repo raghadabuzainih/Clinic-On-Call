@@ -147,6 +147,55 @@
         </div>
 
     </section>
+
+    <section class="teams" id="tm.2" style="background-color: antiquewhite;">
+        <h1 class="title-team">-HOPE CLINIC TEAM-</h1>
+
+        <div class="card">
+            <img src="doctors/5.png" alt="">
+            <div>
+                <h1>Salim Al-Khatib</h1>
+                <h3>Cardiovascular Medicine</h3>
+                <p>Dr. Salim Al-Khatib is a physician specializing in cardiovascular diseases. He was born in Nablus in 1957. He received his bachelor’s degree in medicine from
+                     An-Najah National University and completed a fellowship in cardiology at Harvard University.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="doctors/6.png" alt="">
+            <div>
+                <h1>Laila Al-Kilani</h1>
+                <h3>Obstetrics and Gynecology</h3>
+                <p>
+                    Dr. Laila Al-Kilani is a physician specializing in obstetrics and gynecology. She was born in Ramallah in 1954. She studied medicine at An-Najah
+                     National University, specialized in obstetrics and gynecology at Ain Shams University, and completed a fellowship in high-risk obstetrics at Columbia University.
+                </p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="doctors/7.png" alt="">
+            <div>
+                <h1>Ibrahim Salem</h1>
+                <h3>Ophthalmology</h3>
+                <p>Dr. Ibrahim Salem is an ophthalmologist, born in
+                     Nablus in 1979. He obtained his medical degree from An-Najah National University, and specialized in ophthalmology at Ain Shams University.</p>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <img src="doctors/8.png" alt="">
+            <div>
+                <h1>Hassan Al-Tayeb</h1>
+                <h3>Psychiatry</h3>
+                <p>Dr. Hassan Al-Tayeb is a psychiatrist, born in Jerusalem in 1989.
+                     He obtained his medical degree from An-Najah National University, and specialized in psychiatry at the University of London.</p>
+            </div>
+        </div>
+
+    </section>
+
 </body>
 <script src="clinic.on.call.js"></script>
 </html>
