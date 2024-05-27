@@ -83,3 +83,31 @@ header a:hover{
     line-height: 1.9rem;
     font-size: 1.4rem;
 }
+#services{
+    margin-top: -2rem;
+    background-color: #F9F9F9;
+    text-align: center;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+#services h1{
+    line-height: 6rem;
+}
+
+.three-serv{
+    display: flex;
+    gap: 3rem;
+    padding-left: 3rem;
+}
+
+.same img{
+    margin-left: 7.5rem;
+}
+
+.same{
+    display: grid;
+    gap: 1rem;
+    align-items: center;
+    width: 27rem;
+}
