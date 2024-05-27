@@ -219,3 +219,20 @@ strong{
     font-size: 17px;
     padding: .7rem .5rem;
 }
+button{
+    cursor: pointer;
+}
+
+.form button{
+    border: none;
+    color: white;
+    background-color: rgb(88, 65, 65);
+}
+
+footer{
+    height: 2rem;
+    background-color: #1B262C;
+    color: white;
+    text-align: center;
+    line-height: 1.9rem;
+}
