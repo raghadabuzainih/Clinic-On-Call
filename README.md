@@ -199,3 +199,44 @@
 </body>
 <script src="clinic.on.call.js"></script>
 </html>
+<section class="teams" id="tm.3">
+        <h1 class="title-team">-PEACE CLINIC TEAM-</h1>
+
+        <div class="card">
+            <img src="doctors/9.jpg" alt="">
+            <div>
+                <h1>Nadia Al-Safi</h1>
+                <h3>Ophthalmology</h3>
+                <p>Dr. Nadia Al-Safi is a doctor specializing in ophthalmology. She was born in Nablus in 1993. She obtained her medical degree from An-Najah National University, and specialized in ophthalmology at Ain Shams University. She focuses on eye surgeries and vision correction.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="doctors/10.png" alt="">
+            <div>
+                <h1>Youssef Al-Ali</h1>
+                <h3>Oncology</h3>
+                <p>Dr. Yousef Al-Ali is an oncologist, born in Jenin in 1950. He received his medical degree from An-Najah National University, and specialized in medical oncology at the University of Texas.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="doctors/11.png" alt="">
+            <div>
+                <h1>Adel Al-Hajj</h1>
+                <h3>Pediatrics</h3>
+                <p>Dr. Adel Al-Hajj is a pediatrician, born in Hebron in 1980. He obtained his medical degree from Al-Quds University, and specialized in pediatrics at Cairo University.</p>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <img src="doctors/12.png" alt="">
+            <div>
+                <h1>Karim Zidan</h1>
+                <h3>Orthopedics</h3>
+                <p>Dr. Karim Zidan is an orthopedic surgeon, born in Bethlehem in 1985. He received his medical degree from Al-Quds University, and completed his training in orthopedic surgery at the University of Oxford.</p>
+            </div>
+        </div>
+
+    </section>
